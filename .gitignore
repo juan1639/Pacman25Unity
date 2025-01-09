@@ -1,0 +1,47 @@
+# Archivos y carpetas específicas de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos específicos de usuarios y configuraciones locales
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de paquetes externos
+*.apk
+*.aab
+*.jar
+*.java
+*.dex
+*.class
+*.gradle
+*.iml
+
+# Archivos de compilación (opcional)
+*.pdb
+*.idb
+*.dll
+*.exe
+*.app
+*.dSYM
+*.iso
+*.ipa
+
+# Archivos del sistema de control de versiones
+.vs/
+.idea/
